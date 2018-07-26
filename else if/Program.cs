@@ -52,6 +52,7 @@ namespace else_if
 
             }
             Console.WriteLine(" put a number that corresponds with {0}.", "monthoutput");
+            Console.ReadLine();
         }
 
     }
